@@ -4,6 +4,8 @@ Should be able to start by running **make**. This compiles sho.f90 and main.f90 
 
 Plotting can also be done manually in the **data** folder.
 
+![Example Trajectory](https://github.com/icweaver/particle_trajectory/blob/master/Plots/xy.png)
+
 #### TODO:
 * clean up directories
 * generalize binary parameters w/ user input
